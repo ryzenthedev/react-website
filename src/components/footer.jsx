@@ -164,7 +164,7 @@ export default function Footer() {
             {/* Copyright */}
             <div className="text-gray-400 text-center md:text-left">
               <p>&copy; 2026 Bupara. Tüm hakları saklıdır.</p>
-              <p className="text-sm mt-1">Made with ❤️ by Şerif Eren Bilgiç</p>
+              <p className="text-sm mt-1">Made with ❤️ by ryzen</p>
             </div>
 
             {/* Social Links */}
